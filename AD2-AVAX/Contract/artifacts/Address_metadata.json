@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/AVAXAD2.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/AVAXAD2.sol": {
+			"keccak256": "0x901283538e514c68b19cfe22c307bdb319021c43c55510804455d4d446a92131",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1ad110011fd4d4c6af5710b63010784c3fc9d7597e5e2ed78ca5aa081a5e6116",
+				"dweb:/ipfs/QmcHsZxvhKHvq2TmLT4srR2MVkSddRhbywQKzMbWjqRiLt"
+			]
+		}
+	},
+	"version": 1
+}
