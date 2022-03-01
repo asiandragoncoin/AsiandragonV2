@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.2+commit.bacdbe57"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FTMAD2.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FTMAD2.sol": {
+			"keccak256": "0xecdb18efa7ba831eb936387a8df34fe8523d997c6e660e50cf591de001246851",
+			"urls": [
+				"bzz-raw://6117227829ed071adb5b2b9e405aaa8ccd9faf72ff4e0409fadabfc3be8ac616",
+				"dweb:/ipfs/QmZWqQxxxac7CNjLxkfL3DyciPewEbAu3nds5cvFhkNPuw"
+			]
+		}
+	},
+	"version": 1
+}
