@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.4+commit.1dca32f3"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HECOAD2.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HECOAD2.sol": {
+			"keccak256": "0x24a47fbcae4e1ec303778b26f22b5467e0d0991e73b9ca215204e06b5953ed74",
+			"urls": [
+				"bzz-raw://08c9d9a9f0a44d952c7f7435ea6bc8fea84c2e2584c800c12ca2bd9afcb6e332",
+				"dweb:/ipfs/QmTkWTcUeUsX3mzfSjGaAZyH5pkQzuPk5e9fseH3JM1pkK"
+			]
+		}
+	},
+	"version": 1
+}
