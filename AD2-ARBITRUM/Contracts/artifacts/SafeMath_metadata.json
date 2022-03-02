@@ -1,0 +1,35 @@
+{
+	"compiler": {
+		"version": "0.4.18+commit.9cf6e910"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ARBIAD2.sol": "SafeMath"
+		},
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ARBIAD2.sol": {
+			"keccak256": "0x2f6647951923e3a731fdc2e5a1e6528497ba8c61e1b7db2cac0a8b32e0ad5da2",
+			"urls": [
+				"bzzr://079a33953a70fd76774c1e1b21f276c74e76a91f68f12ea2fb617535e6481963"
+			]
+		}
+	},
+	"version": 1
+}
