@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MOVRAD2.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MOVRAD2.sol": {
+			"keccak256": "0x98575dbf8d5443f59ce9823cc81d82259fcae3a5cbd12b5f6c13b54f35167915",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://90016d4db7e938a72ce24d2e2d172c297cfea46037b5cc3718f54be21e576afa",
+				"dweb:/ipfs/QmZVcp8rwjMUEFxaVmuUUdU7uaUtfGtVeKJWZxNq3MBAHM"
+			]
+		}
+	},
+	"version": 1
+}
